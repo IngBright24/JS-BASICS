@@ -9,8 +9,9 @@ console.log(removedItem);
 
 //Write one method that adds an item to the beginning of an array.
 
-players = ["Suarez", "Maradona", "Lewandowski", "Lamine", "Neymar"];
-players.unshift("Messi(GOAT)"); 
+ let players = ["Suarez", "Maradona", "Lewandowski", "Lamine", "Neymar"];
+ let players.unshift("Messi(GOAT)"); 
 
 console.log(players);   
 // GOOD JOB
+
